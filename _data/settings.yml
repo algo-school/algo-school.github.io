@@ -24,8 +24,8 @@ pagination:
   next_page: 'جدید تر'
   previous_page: 'قدیمی تر'
 
-sharing_button_prompt: 'احساس آزادی برای اشتراک گذاری'
+sharing_button_prompt: 'با خیال راحت به اشتراک بگذارید'
 
-related_posts: 'این هارا نیز دوست دارید :'
+related_posts: 'شاید این ها را نیز دوست داشته باشید :'
 
 post_date_prefix: 'نوشته شده در '
