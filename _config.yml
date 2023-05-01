@@ -20,10 +20,10 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-themename:              'لاگارانژ'
+themename:              'الگوریتمیک'
 title:		           'مدرسه الگوریتمیک'
 description:	       'یه ایده بده 😉'
-author:              'M.Niknejad'
+author:              'مهدی نیک نژاد'
 # translator:          'امید شهسوارزاده'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
