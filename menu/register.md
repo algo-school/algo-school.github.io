@@ -4,4 +4,4 @@ title: ثبت نام
 ---
 
 
-<button name="button" onclick="https://survey.porsline.ir/s/C5XiVYq">پیش ثبت نام</button>
+<a href="https://survey.porsline.ir/s/C5XiVYq"><button class="btn" style="font-family: Vazirmatn;"><i class="fa fa-external-link"></i>پیش ثبت نام</button></a>
