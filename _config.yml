@@ -21,10 +21,10 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 themename:              'لاگارانژ'
-title:		           'لاگارانژ'
-description:	       'قالب سبک و ساده جکیل'
-author:              'Paul Le'
-translator:          'امید شهسوارزاده'
+title:		           'مدرسه الگوریتمیک'
+description:	       'یه ایده بده 😉'
+author:              'M.Niknejad'
+# translator:          'امید شهسوارزاده'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
