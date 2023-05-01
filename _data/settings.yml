@@ -6,7 +6,7 @@ disqus:
 # google-ID: 'UA-112060364-1'
 
 menu:
-- {name: 'درباره من', path: 'menu', url: 'about.html'}
+- {name: 'درباره ما', path: 'menu', url: 'about.html'}
 - {name: 'آرشیو مطالب', path: 'menu', url: 'writing.html'}
 - {name: 'تماس با ما', path: 'menu', url: 'contact.html'}
 - {name: 'ثبت نام', path: 'menu', url: 'register.html'}
