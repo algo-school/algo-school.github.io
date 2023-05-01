@@ -9,7 +9,7 @@ menu:
 - {name: 'درباره من', path: 'menu', url: 'about.html'}
 - {name: 'آرشیو مطالب', path: 'menu', url: 'writing.html'}
 - {name: 'تماس با ما', path: 'menu', url: 'contact.html'}
-- {name: 'ثبت نام', path: 'menu', url: 'pre-register.html'}
+- {name: 'ثبت نام', path: 'menu', url: 'register.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
