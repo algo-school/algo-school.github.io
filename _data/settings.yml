@@ -13,7 +13,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github', link: 'https://www.github.com/algo-school'}
+# - {icon: 'github', link: 'https://www.github.com/algo-school'}
 - {icon: 'aparat', link: 'https://www.aparat.com/algo_school'}
 # - {icon: 'twitter', link: 'https://twitter.com/paululele'}
 # - {icon: 'linkedin', link: 'http://www.linkedin.com/in/lenpaul/'}
