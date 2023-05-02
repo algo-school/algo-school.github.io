@@ -503,11 +503,11 @@ th, td {
 
 @font-face {
   font-family: 'icomoon';
-  src:  url('../fonts/icomoon.eot?v4t8ja');
-  src:  url('../fonts/icomoon.eot?v4t8ja#iefix') format('embedded-opentype'),
-    url('../fonts/icomoon.ttf?v4t8ja') format('truetype'),
-    url('../fonts/icomoon.woff?v4t8ja') format('woff'),
-    url('../fonts/icomoon.svg?v4t8ja#icomoon') format('svg');
+  src:  url('../fonts/icomoon.eot');
+  src:  url('../fonts/icomoon.eot') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf') format('truetype'),
+    url('../fonts/icomoon.woff') format('woff'),
+    url('../fonts/icomoon.svg') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
