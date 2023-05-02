@@ -528,6 +528,10 @@ th, td {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-virgool:before {
+  content: "\e901";
+}
 .icon-aparat:before {
   content: "\e900";
 }
+
