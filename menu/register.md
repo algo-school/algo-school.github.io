@@ -10,5 +10,5 @@ title: ثبت نام
 
 | نام دوره | تاریخ شروع دوره | صفحه دوره | وضعیت دوره |
 | :----: | :----: | :----: | :----: |
-| علوم رایانه، بدون رایانه | تابستان ۱۴۰۲ | [https://quera.org/course/add_to_course/course/13785](https://quera.org/course/add_to_course/course/13785) | ✔️ |
+| علوم رایانه، بدون رایانه | تابستان ۱۴۰۲ | [لینک سامانه آموزشی کوئرا](https://quera.org/course/add_to_course/course/13785) | ✔️ |
 
