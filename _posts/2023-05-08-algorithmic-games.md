@@ -26,7 +26,18 @@ image: games.png
 <a href="https://play.mekorama.com/" target="_blank"><button class="btn" style="font-family: Vazirmatn; cursor: pointer;"><i class="fa fa-external-link" style="line-height: 22px; vertical-align: top"></i> &nbsp;  برای بازی کلیک کنید</button></a>
 
 ## بازی Lightbot
-این بازی هم خیلی خوبه
+بازی Lightbot یه بازی جمع و جور ولی کاربردیه!
+Lightbot یه بازی آموزشیه که حل مسأله، تفکر رایانشی و اصول برنامه‌نویسی رو
+به خلاقانه ترین شکل ممکن به بچه‌ها یاد میده.
+<br />
+شما توی این بازی در نقش یک ربات هستید که هر دستوری که به او بدهید انجام میدهد.
+در کنار این بازی بچه‌ها مفاهیم اساسی مثل ترتیب دستورالعملها و تابع و حلقه رو یاد میگیرند.
+
+### سایت بازی
+این بازی رو هم میتونید از فروشگاه های اپلیکیشن دانلود کنید و یا نسخه غیررسمیش رو در این سایت، بازی کنید.
+<a href="https://funkypotato.com/lightbot/" target="_blank"><button class="btn" style="font-family: Vazirmatn; cursor: pointer;"><i class="fa fa-external-link" style="line-height: 22px; vertical-align: top"></i> &nbsp;  برای بازی کلیک کنید</button></a>
+
+
 
 ## بازی Human Resource Machine
 این بازی بشدت جذابه!!!!!!!
