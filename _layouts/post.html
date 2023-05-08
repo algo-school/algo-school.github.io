@@ -12,9 +12,6 @@ layout: default
 
 {{ content }}
 
-<br>
-<applause-button style="width: 58px; height: 58px;"/>
-<br>
 
 <span class="post-date">
   {{ site.data.settings.post_date_prefix }}
@@ -41,3 +38,7 @@ layout: default
 {% if site.data.settings.disqus.comments %}
   {% include disqus.html %}
 {% endif %}
+
+<br>
+<applause-button style="width: 58px; height: 58px;"/>
+<br>
