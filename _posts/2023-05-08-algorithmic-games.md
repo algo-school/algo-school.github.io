@@ -26,7 +26,7 @@ image: games.png
 <a href="https://play.mekorama.com/" target="_blank"><button class="btn" style="font-family: Vazirmatn; cursor: pointer;"><i class="fa fa-external-link" style="line-height: 22px; vertical-align: top"></i> &nbsp;  برای بازی کلیک کنید</button></a>
 
 ## بازی Lightbot
-Lightbot یه بازی آموزشیه که حل مسأله، تفکر رایانشی و اصول برنامه‌نویسی رو
+Lightbot یه بازی <b>آموزشیه</b> که حل مسأله، تفکر رایانشی و اصول برنامه‌نویسی رو
 به خلاقانه ترین شکل ممکن به بچه‌ها یاد میده.
 <br />
 شما توی این بازی باید به یک ربات دستور بدهید و اون رو به اهدافش برسونید.
