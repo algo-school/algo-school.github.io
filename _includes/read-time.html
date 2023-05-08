@@ -5,7 +5,7 @@
   {% elsif words < 360 %}
     ۱ دقیقه مطالعه
   {% else %}
-  دقیقه مطالعه {{ words | divided_by:180 }}
+    {{ words | divided_by:180 }} دقیقه مطالعه
   {% endif %}
 {% endif %}
 
@@ -16,6 +16,6 @@
   {% elsif words < 360 %}
     ۱ دقیقه مطالعه
   {% else %}
-  دقیقه مطالعه {{ words | divided_by:180 }}
+    {{ words | divided_by:180 }} دقیقه مطالعه
   {% endif %}
 {% endif %}
