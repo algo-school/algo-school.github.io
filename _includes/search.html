@@ -9,7 +9,7 @@ layout: search
 
 <ul id="search-results"></ul>
 
-<script>
+<script> 
   window.store = {
     {% for post in site.posts %}
       "{{ post.url | slugify }}": {
