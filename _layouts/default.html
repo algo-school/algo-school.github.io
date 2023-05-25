@@ -1,27 +1,33 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
+  {% include head.html %}
 
-{% include head.html %}
+  <link
+    href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css"
+    rel="stylesheet"
+    type="text/css"
+  />
+  <!-- <script type="text/javascript" src="search.tsx"></script> -->
+  <script src="https://unpkg.com/@mendable/search@0.0.104/dist/umd/mendable-bundle.min.js"></script>
+  <script>
+    Mendable.initialize({
+      anon_key: "70c47b61-f58d-4b6e-82d2-6ee6ad58cc7c",
+      type: "floatingButton",
+      elementId: "mendable-component", // required
+      // all the other props for the component type
+    });
+  </script>
+  <body>
+    <!-- {% include search.tsx %} -->
 
-<link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css" rel="stylesheet" type="text/css" />
-<!-- <script type="text/javascript" src="search.tsx"></script> -->
-<body>
+    <div class="container">
+      <div id="mendable-component"></div>
 
-  <!-- {% include search.tsx %} -->
+      {% include header.html %}
 
-  <div class="container">
+      <div class="post-container">{{ content }}</div>
 
-    <div id="mendable-component"></div>
-
-    {% include header.html %}
-
-    <div class="post-container">
-      {{ content }}
+      {% include footer.html %}
     </div>
-
-    {% include footer.html %}
-
-  </div>
-
-</body>
+  </body>
 </html>
