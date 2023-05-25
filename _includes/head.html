@@ -36,6 +36,15 @@
     $('body').persiaNumber(); 
   });
   </script>
+  <script src="https://unpkg.com/@mendable/search@0.0.104/dist/umd/mendable-bundle.min.js"></script>
+  <script>
+    Mendable.initialize({
+      anon_key: '70c47b61-f58d-4b6e-82d2-6ee6ad58cc7c',
+      type:"floatingButton",
+      // all the other props for the component type
+    });
+  </script>
+  <script src="search.tsx"></script>
 
   <!-- Google Analytics -->
   {% include google-analytics.html %}
