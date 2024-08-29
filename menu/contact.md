@@ -7,3 +7,7 @@ title: تماس با ما
 
 
 اگر سوالی دارید می توانید از طریق پیامرسان [بله](https://ble.ir/algo_admin) با ما در ارتباط باشید.
+
+
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://www.aparat.com/embed/Y7zTZ?data[rnddiv]=50147245649&data[responsive]=yes&titleShow=true)
+
